@@ -1,1 +1,0 @@
-If a variable is declared inside for loop, then it is a local variable and thus can't be used outside.  
