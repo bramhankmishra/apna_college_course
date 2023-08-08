@@ -1,0 +1,13 @@
+Q4 
+
+Math.max() = The Math.max(x,y) method can be used to find the highest value of x and y
+
+Math.max() = The Math.min(x,y) method can be used to find the lowest value of x and y.
+
+Math.sqrt() = The Math.sqrt(x) method returns the square root of x.
+
+Math.pow() = Math. pow(double a, double b) returns the value of a raised to the power of b. It returns a double value.
+
+Math.avg() =  This function is used to get the average value from the given expression.
+
+Math.abs() = The Math.abs() static method returns the absolute value of a number, i.e. non-negative value of x without regard to its sign
