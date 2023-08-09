@@ -6,7 +6,7 @@ public class Inverted_half_pyramid_patrn {
     public static void pattern(int length){
         for(int i = 1; i<=length; i++){
             for(int j =1; j<=length; j++){
-                if(j>=length+1-i){
+                if(j>=length+1-i){              // We added +1 in order to remove error
                     System.out.print("*");
                 }
                 else{
